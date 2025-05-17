@@ -44,7 +44,7 @@ export default function AboutPage() {
             </FadeIn>
             <FadeIn direction="right" delay={0.2}>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/images/about-us-bg.jpeg" alt="About WolfPacket" fill className="object-cover" />
+                <Image src="/images/hero2.avif" alt="About WolfPacket" fill className="object-cover" />
               </div>
             </FadeIn>
           </div>
