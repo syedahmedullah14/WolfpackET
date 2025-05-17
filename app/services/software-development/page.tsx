@@ -17,9 +17,9 @@ export default function SoftwareDevelopmentPage() {
         <div className="absolute inset-0 bg-black/70"></div>
         <div className="container relative z-10 mx-auto px-4">
           <FadeIn>
-            <div className="max-w-3xl mx-auto">
-              <h1 className="text-4xl md:text-5xl font-bold mb-3 text-right">Software Development</h1>
-              <p className="text-lg md:text-2xl text-white text-right">
+            <div className="max-w-3xl mx-auto text-center">
+              <h1 className="text-4xl md:text-5xl font-bold mb-3">Software Development</h1>
+              <p className="text-lg md:text-2xl text-white">
                 Custom software solutions designed to meet your unique business needs and drive growth.
               </p>
             </div>
