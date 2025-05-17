@@ -78,7 +78,7 @@ export default function ITConsultingPage() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-gray-400">
-                      Replacing outdated systems with innovative technologies that improve performance and agility. We
+                      Replacing outdated systems with innovative technologies that improve performance. We
                       help you identify legacy systems that are holding your business back and develop a plan to
                       modernize your IT infrastructure.
                     </p>
@@ -117,7 +117,7 @@ export default function ITConsultingPage() {
                   <CardContent>
                     <p className="text-gray-400">
                       Seamlessly moving your workloads, applications, and data to the cloud with minimal disruption. We
-                      develop a comprehensive cloud migration strategy that addresses security, compliance, and
+                      develop a comprehensive cloud migration strategy that addresses security, and
                       performance requirements.
                     </p>
                   </CardContent>
