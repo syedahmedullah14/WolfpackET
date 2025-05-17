@@ -127,8 +127,7 @@ export default function AboutPage() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-gray-300">
-                      In a rapidly changing technology landscape, adaptability is key. We embrace change, learn
-                      continuously, and help our clients navigate technological shifts with confidence.
+                      In a rapidly changing technology landscape, adaptability is key. We embrace change, and help our clients navigate technological shifts with confidence.
                     </p>
                   </CardContent>
                 </Card>

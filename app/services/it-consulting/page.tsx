@@ -33,7 +33,7 @@ export default function ITConsultingPage() {
             <FadeIn direction="left">
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">Strategic IT Guidance</h2>
-                <p className="text-lg text-gray-400 mb-6">
+                <p className="text-lg text-gray-100 mb-6">
                   WolfPacket offers deep strategic insight and technical expertise to help businesses evolve through
                   technology. Our IT consulting service includes a comprehensive analysis of your current IT landscape,
                   identification of inefficiencies, and formulation of a scalable roadmap tailored to your goals.
