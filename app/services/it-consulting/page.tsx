@@ -12,14 +12,14 @@ export default function ITConsultingPage() {
   return (
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
-      <section className="solutions-section relative py-20 md:py-32 text-white">
+      <section className=" relative py-20 md:py-32 text-white">
       <Image src="/it.png" alt="IT Consulting" fill className="object-cover" />
         <div className="absolute inset-0 bg-black/70"></div>
         <div className="container relative z-10 mx-auto px-4">
           <FadeIn>
-            <div className="max-w-3xl mx-auto text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-10">IT Consulting</h1>
-              <p className="text-lg md:text-xl text-white font-bold">
+            <div className="max-w-3xl mx-auto">
+              <h1 className="text-4xl md:text-5xl font-bold mb-3 text-right">IT Consulting</h1>
+              <p className="text-lg md:text-2xl text-white text-right">
                 Strategic guidance and technical expertise to help your business evolve through technology.
               </p>
             </div>
