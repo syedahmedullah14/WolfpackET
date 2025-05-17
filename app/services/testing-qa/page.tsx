@@ -13,6 +13,7 @@ export default function TestingQAPage() {
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
       <section className="solutions-section relative py-20 md:py-32 text-white">
+      <Image src="/it.png" alt="IT Consulting" fill className="object-cover" />
         <div className="absolute inset-0 bg-black/70"></div>
         <div className="container relative z-10 mx-auto px-4">
           <FadeIn>
