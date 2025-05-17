@@ -104,7 +104,11 @@ export default function ServicesDropdown() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
             transition={{ duration: 0.2 }}
-            className="absolute left-0 z-10 mt-2 w-screen max-w-md rounded-md bg-gray-900 shadow-lg ring-1 ring-gray-700"
+            className="absolute left-0 right-0 md:left-auto z-10 mt-2 w-screen max-w-[calc(100vw-2rem)] sm:max-w-[320px] md:max-w-md rounded-md bg-gray-900 shadow-lg ring-1 ring-gray-700 services-dropdown-scroll services-dropdown"
+            style={{
+              maxHeight: "calc(100vh - 150px)",
+              overflowY: "auto",
+            }}
           >
             <div className="p-4 grid grid-cols-1 gap-4">
               {services.map((service) => (
