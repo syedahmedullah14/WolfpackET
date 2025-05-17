@@ -159,6 +159,25 @@ export default function TestingQAPage() {
                 </Card>
               </motion.div>
             </FadeIn>
+
+            <FadeIn delay={0.1}>
+              <motion.div whileHover={{ y: -10 }} transition={{ type: "spring", stiffness: 300 }}>
+                <Card className="h-full border-2 hover:border-wolf-blue">
+                  <CardHeader>
+                    <div className="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 text-primary">
+                      <CheckSquare className="h-6 w-6" />
+                    </div>
+                    <CardTitle>Automation Testing</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-gray-400">
+                    Implementing automated test scripts to accelerate release cycles, and ensure consistent quality across updates saving time and reducing manual effort
+                    </p>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            </FadeIn>
+
           </div>
         </div>
       </section>
