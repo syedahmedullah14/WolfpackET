@@ -18,8 +18,8 @@ export default function TestingQAPage() {
         <div className="container relative z-10 mx-auto px-4">
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">Testing and QA</h1>
-              <p className="text-lg md:text-xl text-white">
+              <h1 className="text-4xl md:text-5xl font-bold mb-10">Testing and QA</h1>
+              <p className="text-lg md:text-xl text-white font-bold">
                 Comprehensive quality assurance to ensure your software performs flawlessly.
               </p>
             </div>
