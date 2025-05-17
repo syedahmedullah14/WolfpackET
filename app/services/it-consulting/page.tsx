@@ -19,7 +19,7 @@ export default function ITConsultingPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">IT Consulting</h1>
-              <p className="text-lg md:text-xl text-gray-100">
+              <p className="text-lg md:text-xl text-white">
                 Strategic guidance and technical expertise to help your business evolve through technology.
               </p>
             </div>

@@ -19,7 +19,7 @@ export default function SoftwareDevelopmentPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Software Development</h1>
-              <p className="text-lg md:text-xl text-gray-300">
+              <p className="text-lg md:text-xl text-white">
                 Custom software solutions designed to meet your unique business needs and drive growth.
               </p>
             </div>
