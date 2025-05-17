@@ -14,7 +14,7 @@ export default function AboutPage() {
         <div className="container relative z-10 mx-auto px-4">
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6 text-gray-100">About WolfPacket</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-6 text-gray-100">About WolfPacket-ET</h1>
               <p className="text-lg md:text-xl text-gray-300">
                 We're a team of technology experts dedicated to empowering businesses through innovative IT solutions.
               </p>

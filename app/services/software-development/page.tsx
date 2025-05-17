@@ -47,7 +47,7 @@ export default function SoftwareDevelopmentPage() {
             </FadeIn>
             <FadeIn direction="right" delay={0.2}>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/images/our-solutions-bg.jpeg" alt="Software Development" fill className="object-cover" />
+                <Image src="/images/tech3.jpeg" alt="Software Development" fill className="object-cover" />
               </div>
             </FadeIn>
           </div>

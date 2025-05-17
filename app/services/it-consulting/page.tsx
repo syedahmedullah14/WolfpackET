@@ -46,7 +46,7 @@ export default function ITConsultingPage() {
             </FadeIn>
             <FadeIn direction="right" delay={0.2}>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/images/our-solutions-bg.jpeg" alt="IT Consulting" fill className="object-cover" />
+                <Image src="/images/tech2.jpg" alt="IT Consulting" fill className="object-cover" />
               </div>
             </FadeIn>
           </div>

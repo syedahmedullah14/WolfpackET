@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "WolfpackET - IT Solutions Provider",
   description: "Empowering Your Business with Smart IT Solutions",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

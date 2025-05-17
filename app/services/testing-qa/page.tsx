@@ -47,7 +47,7 @@ export default function TestingQAPage() {
             </FadeIn>
             <FadeIn direction="right" delay={0.2}>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/images/our-solutions-bg.jpeg" alt="Testing and QA" fill className="object-cover" />
+                <Image src="/images/hero3.webp" alt="Testing and QA" fill className="object-cover" />
               </div>
             </FadeIn>
           </div>

@@ -37,28 +37,28 @@
 }
 
 .hero-section {
-  background-image: url("/images/hero-section-bg.jpg");
+  background-image: url("/Hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .about-section {
-  background-image: url("/images/about-us-bg.jpeg");
+  background-image: url("/about.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .solutions-section {
-  background-image: url("/images/our-solutions-bg.jpeg");
+  background-image: url("/services.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .why-choose-section {
-  background-image: url("/images/why-choose-us-bg.jpeg");
+  background-image: url("/whyus.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
