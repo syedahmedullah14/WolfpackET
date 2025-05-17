@@ -33,12 +33,12 @@ export default function SoftwareDevelopmentPage() {
             <FadeIn direction="left">
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">Custom Software Solutions</h2>
-                <p className="text-lg text-gray-600 mb-6">
+                <p className="text-lg text-gray-400 mb-6">
                   We provide full-cycle software development services — from discovery to deployment and beyond. Our
                   team builds secure, scalable, and high-performing software solutions across web, mobile, and
                   enterprise platforms.
                 </p>
-                <p className="text-lg text-gray-600">
+                <p className="text-lg text-gray-400">
                   Our development process is collaborative and transparent, ensuring that your vision is realized
                   through iterative development, regular feedback, and continuous improvement. We focus on creating
                   software that not only meets your current needs but can also adapt and scale as your business grows.
@@ -60,7 +60,7 @@ export default function SoftwareDevelopmentPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Development Services</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 We offer a comprehensive range of software development services to meet your business needs.
               </p>
             </div>
@@ -77,7 +77,7 @@ export default function SoftwareDevelopmentPage() {
                     <CardTitle>Web Application Development</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Custom-built platforms tailored to your business model and user experience goals. We create
                       responsive, intuitive web applications that deliver exceptional user experiences across all
                       devices.
@@ -96,7 +96,7 @@ export default function SoftwareDevelopmentPage() {
                     <CardTitle>Mobile App Development</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Native and cross-platform mobile solutions that engage users on the go. We develop mobile
                       applications that provide seamless experiences across iOS and Android platforms.
                     </p>
@@ -114,7 +114,7 @@ export default function SoftwareDevelopmentPage() {
                     <CardTitle>SaaS Product Development</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Scalable, cloud-based software products designed for subscription-based delivery. We help you
                       build and launch SaaS products that can scale with your business and user base.
                     </p>
@@ -132,7 +132,7 @@ export default function SoftwareDevelopmentPage() {
                     <CardTitle>API & Library Development</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Building robust APIs and reusable libraries that connect and extend your software ecosystem. We
                       create well-documented, secure APIs that enable seamless integration with other systems.
                     </p>
@@ -150,7 +150,7 @@ export default function SoftwareDevelopmentPage() {
                     <CardTitle>Cloud-Native Applications</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Applications built to fully leverage cloud scalability, flexibility, and speed. We design and
                       develop cloud-native applications that take full advantage of modern cloud infrastructure.
                     </p>
@@ -168,7 +168,7 @@ export default function SoftwareDevelopmentPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Development Process</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 We follow a structured yet flexible development process to ensure successful project delivery.
               </p>
             </div>
@@ -181,7 +181,7 @@ export default function SoftwareDevelopmentPage() {
                   <span className="text-2xl font-bold">1</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Discovery</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We work closely with you to understand your business goals, user needs, and technical requirements.
                 </p>
               </div>
@@ -192,7 +192,7 @@ export default function SoftwareDevelopmentPage() {
                   <span className="text-2xl font-bold">2</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Design & Planning</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We create detailed designs and technical specifications to guide the development process.
                 </p>
               </div>
@@ -203,7 +203,7 @@ export default function SoftwareDevelopmentPage() {
                   <span className="text-2xl font-bold">3</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Development</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   Our developers build your solution using modern technologies and best practices.
                 </p>
               </div>
@@ -214,7 +214,7 @@ export default function SoftwareDevelopmentPage() {
                   <span className="text-2xl font-bold">4</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Testing & Deployment</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We thoroughly test your software and deploy it to your preferred environment.
                 </p>
               </div>
@@ -229,7 +229,7 @@ export default function SoftwareDevelopmentPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Build Your Software Solution?</h2>
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-400 mb-8">
                 Contact us today to discuss your software development needs and discover how WolfPacket can help bring
                 your vision to life.
               </p>

@@ -33,12 +33,12 @@ export default function TestingQAPage() {
             <FadeIn direction="left">
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">Quality Assurance Excellence</h2>
-                <p className="text-lg text-gray-600 mb-6">
+                <p className="text-lg text-gray-400 mb-6">
                   Quality assurance is critical to product success, and at WolfPackET, we take it seriously. Our
                   ISTQB-certified QA engineers perform end-to-end testing of your applications to ensure reliability and
                   user satisfaction.
                 </p>
-                <p className="text-lg text-gray-600">
+                <p className="text-lg text-gray-400">
                   We implement comprehensive testing strategies that identify issues early in the development process,
                   reducing costs and ensuring a high-quality end product. Our testing approach is methodical, thorough,
                   and tailored to your specific application and business requirements.
@@ -60,7 +60,7 @@ export default function TestingQAPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Testing Capabilities</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 We offer a comprehensive range of testing services to ensure your software meets the highest quality
                 standards.
               </p>
@@ -78,7 +78,7 @@ export default function TestingQAPage() {
                     <CardTitle>Functional Testing</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Ensuring every feature works as intended across use cases. We verify that your application
                       functions correctly according to requirements and specifications.
                     </p>
@@ -96,7 +96,7 @@ export default function TestingQAPage() {
                     <CardTitle>Integration Testing</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Verifying that components and systems communicate seamlessly. We test how different parts of your
                       application work together to ensure smooth operation.
                     </p>
@@ -114,7 +114,7 @@ export default function TestingQAPage() {
                     <CardTitle>Performance Testing</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Stress-testing applications to ensure speed, scalability, and stability. We identify performance
                       bottlenecks and ensure your application can handle expected loads.
                     </p>
@@ -132,7 +132,7 @@ export default function TestingQAPage() {
                     <CardTitle>Usability Testing</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Evaluating user experience for accessibility, clarity, and ease of use. We ensure your application
                       provides a positive and intuitive user experience.
                     </p>
@@ -150,7 +150,7 @@ export default function TestingQAPage() {
                     <CardTitle>Security Testing</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Identifying and addressing vulnerabilities before they can be exploited. We conduct thorough
                       security assessments to protect your application and data.
                     </p>
@@ -168,7 +168,7 @@ export default function TestingQAPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our QA Process</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 We follow a structured quality assurance process to ensure comprehensive testing and reliable results.
               </p>
             </div>
@@ -181,7 +181,7 @@ export default function TestingQAPage() {
                   <span className="text-2xl font-bold">1</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Test Planning</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We develop a comprehensive test strategy and plan tailored to your application.
                 </p>
               </div>
@@ -192,7 +192,7 @@ export default function TestingQAPage() {
                   <span className="text-2xl font-bold">2</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Test Design</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We create detailed test cases and scenarios to cover all aspects of your application.
                 </p>
               </div>
@@ -203,7 +203,7 @@ export default function TestingQAPage() {
                   <span className="text-2xl font-bold">3</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Test Execution</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We perform thorough testing according to the test plan and document all findings.
                 </p>
               </div>
@@ -214,7 +214,7 @@ export default function TestingQAPage() {
                   <span className="text-2xl font-bold">4</span>
                 </div>
                 <h3 className="text-xl font-bold mb-2">Reporting & Improvement</h3>
-                <p className="text-gray-600">
+                <p className="text-gray-400">
                   We provide detailed reports and recommendations for continuous improvement.
                 </p>
               </div>
@@ -229,7 +229,7 @@ export default function TestingQAPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Ensure Your Software Quality</h2>
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-400 mb-8">
                 Contact us today to discuss your testing and QA needs and discover how WolfPacket can help ensure your
                 software meets the highest quality standards.
               </p>

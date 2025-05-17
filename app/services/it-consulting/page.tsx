@@ -33,12 +33,12 @@ export default function ITConsultingPage() {
             <FadeIn direction="left">
               <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6">Strategic IT Guidance</h2>
-                <p className="text-lg text-gray-600 mb-6">
+                <p className="text-lg text-gray-400 mb-6">
                   WolfPacket offers deep strategic insight and technical expertise to help businesses evolve through
                   technology. Our IT consulting service includes a comprehensive analysis of your current IT landscape,
                   identification of inefficiencies, and formulation of a scalable roadmap tailored to your goals.
                 </p>
-                <p className="text-lg text-gray-600">
+                <p className="text-lg text-gray-400">
                   We work closely with your team to understand your business objectives, challenges, and opportunities,
                   then develop a strategic plan that leverages technology to drive growth, efficiency, and innovation.
                 </p>
@@ -59,7 +59,7 @@ export default function ITConsultingPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">How We Assist</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 Our IT consulting services cover a wide range of areas to help your business leverage technology
                 effectively.
               </p>
@@ -77,7 +77,7 @@ export default function ITConsultingPage() {
                     <CardTitle>IT Modernization</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Replacing outdated systems with innovative technologies that improve performance and agility. We
                       help you identify legacy systems that are holding your business back and develop a plan to
                       modernize your IT infrastructure.
@@ -96,7 +96,7 @@ export default function ITConsultingPage() {
                     <CardTitle>Infrastructure Optimization</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Streamlining your IT infrastructure for cost-efficiency, performance, and resilience. We analyze
                       your current infrastructure and recommend improvements to enhance reliability, security, and
                       scalability.
@@ -115,7 +115,7 @@ export default function ITConsultingPage() {
                     <CardTitle>Cloud Migration</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Seamlessly moving your workloads, applications, and data to the cloud with minimal disruption. We
                       develop a comprehensive cloud migration strategy that addresses security, compliance, and
                       performance requirements.
@@ -134,7 +134,7 @@ export default function ITConsultingPage() {
                     <CardTitle>Workflow Transformation</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-gray-600">
+                    <p className="text-gray-400">
                       Digitally transforming manual processes to accelerate productivity and business outcomes. We
                       identify opportunities to automate and streamline workflows, reducing manual effort and improving
                       efficiency.
@@ -153,7 +153,7 @@ export default function ITConsultingPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Transform Your IT?</h2>
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-400 mb-8">
                 Contact us today to discuss your IT consulting needs and discover how WolfPacket can help your business
                 thrive.
               </p>

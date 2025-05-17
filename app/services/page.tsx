@@ -16,7 +16,7 @@ export default function ServicesPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Our Services</h1>
-              <p className="text-lg md:text-xl text-gray-300">
+              <p className="text-lg md:text-xl text-gray-100">
                 Explore our core services — each designed to solve your IT challenges and drive long-term success.
               </p>
             </div>
@@ -30,7 +30,7 @@ export default function ServicesPage() {
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">How We Can Help</h2>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg text-gray-400">
                 At WolfPacket, we offer a comprehensive range of IT services designed to help businesses of all sizes
                 leverage technology for growth and innovation. Whether you need strategic guidance, custom software, or
                 quality assurance, our team has the expertise to deliver results.
@@ -68,12 +68,12 @@ export default function ServicesPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 bg-gray-50">
+      <section className="py-20 bg-gray-900">
         <div className="container mx-auto px-4">
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Get Started?</h2>
-              <p className="text-lg text-gray-600 mb-8">
+              <p className="text-lg text-gray-400 mb-8">
                 Contact us today to discuss your IT needs and discover how WolfPacket can help your business thrive.
               </p>
               <Button asChild size="lg" className="bg-wolf-blue hover:bg-wolf-blue/90">
