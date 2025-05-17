@@ -55,7 +55,7 @@ export default function SoftwareDevelopmentPage() {
       </section>
 
       {/* Services Offered */}
-      <section className="py-20 bg-gray-50">
+      <section className="py-20 bg-gray-900">
         <div className="container mx-auto px-4">
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center mb-16">
@@ -224,7 +224,7 @@ export default function SoftwareDevelopmentPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 bg-gray-50">
+      <section className="py-20 bg-gray-900">
         <div className="container mx-auto px-4">
           <FadeIn>
             <div className="max-w-3xl mx-auto text-center">
