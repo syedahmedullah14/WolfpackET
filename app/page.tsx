@@ -226,7 +226,7 @@ export default function Home() {
                     </div>
                     <div className="ml-4">
                       <h3 className="text-lg font-medium text-gray-200">Phone</h3>
-                      <p className="text-gray-400">+971 58 581 4358</p>
+                      <p className="text-gray-400">+971-43764939</p>
                     </div>
                   </div>
                   <div className="flex items-start">
